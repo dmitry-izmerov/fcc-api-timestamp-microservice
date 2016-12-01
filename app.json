@@ -1,0 +1,7 @@
+{
+  "name": "Timestamp microservice",
+  "description": "Realization of timestamp microservice from free code camp api tasks",
+  "repository": "https://github.com/dmitry-izmerov/fcc-api-timestamp-microservice",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
